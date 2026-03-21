@@ -524,4 +524,17 @@ Goal: Fraud detection, dashboards, and final submission preparation.
 - Final polish on rider dashboard — compensation history, active coverage, weekly premium breakdown
 - End-to-end testing with simulated disruption scenarios
 
-## Financial Viability & Sustainability of DASH
+## Financial Viability & Sustainability - DASH
+
+**Expenditure overview and net margin** 
+
+Not every rider is disrupted every week. Based on historical weather and civil disruption data for Indian cities, **significant disruption events occur roughly 8–12 weeks** per year — meaning DASH pays out on approximately **15–20% of active weeks.**
+
+At `150` **active riders**:
+
+- **Weekly premiums collected**: ₹12,000–₹15,000
+- **Weekly payouts** (15–20% disruption rate): ₹3,000–₹6,000
+- **Weekly bonus tips**: ₹500–₹1,500
+- **Net weekly margin: ₹4,500–₹8,500**
+
+This gives DASH a **healthy margin** that can be reinvested into expanding zone coverage, improving ML models, and onboarding more riders. The model **becomes more accurate and more profitable** as the rider base grows — more historical data means better risk scoring, tighter premiums, and fewer mis-priced policies.
