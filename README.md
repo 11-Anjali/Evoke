@@ -51,6 +51,7 @@
     - [Phase 2 —Automation & Intelligence](#phase-2-automation--intelligence)
     - [Phase 3 — Polish & Scale](#phase-3--polish--scale)
   - [Financial Viability & Sustainability of DASH](#financial-viability--sustainability---dash)
+  - [DEMO video](#Demo-video--dash)
 
 
 ## Problem Statement
@@ -629,3 +630,6 @@ At `150` **active riders**:
 - **Net weekly margin: ₹4,500–₹8,500**
 
 This gives DASH a **healthy margin** that can be reinvested into expanding zone coverage, improving ML models, and onboarding more riders. The model **becomes more accurate and more profitable** as the rider base grows — more historical data means better risk scoring, tighter premiums, and fewer mis-priced policies.
+
+## Demo video - DASH
+https://drive.google.com/file/d/1BfLRHlCXSVnKhkoLvOYoizhxZJ0PV58I/view?usp=sharing
